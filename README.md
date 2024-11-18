@@ -109,6 +109,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | My AskAI          | Custom ChatGPT creation | https://affiliates.reflio.com/invite/myaskai | 25% for 1 year              |
 | NeuralText        | Content automation      | https://neuraltext.getrewardful.com/signup   | 30% lifetime recurring      |
 | Colossyan Creator | AI video creation       | https://www.colossyan.com/affiliate-program  | 25% recurring for 12 months |
+| Mevo              | AI customer support     | https://usemevo.com/affiliates               | 30% recurring for 3 months  |
 
 ## 💰 Financial & Accounting
 
