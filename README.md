@@ -112,14 +112,13 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 
 ## 💰 Financial & Accounting
 
-| Company                                  | Description                               | Program Link                                                 | Commission Details           |
-| ---------------------------------------- | ----------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
-| TradingView                              | Financial charts platform                 | https://www.tradingview.com/partner-program/                 | 30% commission per sale      |
-| Xero                                     | Cloud accounting                          | https://www.xero.com/campaign/xero-partnership/              | Commission on subscriptions  |
-| CoinLedger                               | Crypto tax software                       | https://coinledger.io/affiliate-program                      | 25% recurring on tax reports |
-| Intuit                                   | QuickBooks & TurboTax                     | https://quickbooks.intuit.com/partners/qbbusinessaffiliates/ | Up to 15% revenue share      |
-| DocParser                                | Extract Data From Your Business Documents |
-| https://docparser.com/affiliate-program/ | 25% commission                            |
+| Company     | Description                               | Program Link                                                 | Commission Details           |
+| ----------- | ----------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
+| TradingView | Financial charts platform                 | https://www.tradingview.com/partner-program/                 | 30% commission per sale      |
+| Xero        | Cloud accounting                          | https://www.xero.com/campaign/xero-partnership/              | Commission on subscriptions  |
+| CoinLedger  | Crypto tax software                       | https://coinledger.io/affiliate-program                      | 25% recurring on tax reports |
+| Intuit      | QuickBooks & TurboTax                     | https://quickbooks.intuit.com/partners/qbbusinessaffiliates/ | Up to 15% revenue share      |
+| DocParser   | Extract Data From Your Business Documents | https://docparser.com/affiliate-program/                     | 25% commission               |
 
 ## 📱 Social Media & Content
 
