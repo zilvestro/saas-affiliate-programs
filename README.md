@@ -50,6 +50,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Company | Description                 | Program Link               | Commission Details                                                                                                                                            |
 | ------- | --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Affonso | Affiliate Software for SaaS | https://friends.affonso.io | 💰 40% Lifetime Commission on all payments<br>⏰ 180-day Cookie Duration<br>🔄 Monthly Payouts ($25 minimum)<br>⚡ 30-day Hold Period<br>🤝 Dedicated Support |
+| Kafkai  | Competitive intelligence and SEO content platform | https://kafkai.com/en/affiliate/ | 10% recurring for 12 months, 30-day cookie |
 
 ## 📧 Email & Communication
 
@@ -61,6 +62,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | LiveChat    | Customer service platform  | https://partners.livechatinc.com/affiliate-marketing-program/ | 20% recurring up to $4500/customer |
 | Woodpecker  | Email automation for B2B   | https://woodpecker.co/affiliates/                             | Recurring commission on sales      |
 | Mail Blaze  | Email marketing campaigns  | https://app.getreditus.com/affiliate/sign_up/mailblaze        | 30% lifetime recurring             |
+| PuchiDen    | Browser-based international calling | https://puchiden.app/blog/product-updates/our-affiliate-program-is-open/ | 10% of every top-up for 12 months  |
 
 ## 🎨 Design & Creative Tools
 
