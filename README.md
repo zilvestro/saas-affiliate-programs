@@ -31,6 +31,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 - [Developer Tools](#️-developer-tools)
 - [E-commerce Tools](#-e-commerce-tools)
 - [Media & Content Creation](#️-media--content-creation)
+- [Construction & Trades](#️-construction--trades)
 
 ---
 
@@ -166,3 +167,9 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Heyzine    | PDF to flipbook converter | https://heyzine.com/plans/affiliate     | 20% lifetime recurring |
 
 Each program includes tracking systems and most provide marketing materials to help promote their products. Cookie duration and payment terms vary by program, so it's important to review the specific terms for each one you're interested in promoting.
+
+## 🏗️ Construction & Trades
+
+| Company       | Description                                              | Program Link                                    | Commission Details                              |
+| ------------- | -------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| EstimationPro | AI estimating software for contractors (photos/voice to line-item estimates) | https://estimationpro.ai/affiliates | 30% recurring for 12 months, 30-day cookie, monthly PayPal payouts |
