@@ -144,6 +144,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 
 | Company   | Description             | Program Link                                | Commission Details           |
 | --------- | ----------------------- | ------------------------------------------- | ---------------------------- |
+| appqr.io  | Smart app links and QR codes | https://www.appqr.io/affiliate-program | 30% recurring for 12 months, 60-day cookie |
 | Keygen    | Software licensing API  | https://keygen.sh/affiliates/               | 30% lifetime recurring       |
 | AI/ML API | AI/ML integration tools | https://aimlapi.com/affiliate               | 30% lifetime + 90-day cookie |
 | Serply.io | Search engine scraping  | https://affiliates.reflio.com/invite/serply | 25% lifetime recurring       |
