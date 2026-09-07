@@ -31,6 +31,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 - [Developer Tools](#️-developer-tools)
 - [E-commerce Tools](#-e-commerce-tools)
 - [Media & Content Creation](#️-media--content-creation)
+- [Logistics & Operations](#-logistics--operations)
 
 ---
 
@@ -166,3 +167,10 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Heyzine    | PDF to flipbook converter | https://heyzine.com/plans/affiliate     | 20% lifetime recurring |
 
 Each program includes tracking systems and most provide marketing materials to help promote their products. Cookie duration and payment terms vary by program, so it's important to review the specific terms for each one you're interested in promoting.
+
+## 🚚 Logistics & Operations
+
+| Company | Description | Program Link | Commission Details |
+| --- | --- | --- | --- |
+| CyberForward | Freight operating system for forwarders and brokers (quotes, jobs, documents, customer portal; QuickBooks and ERPNext connections) | https://cyberforward.us/partners | 20% of net revenue for 12 months per customer, 90-day cookie, monthly payouts, USD 50 minimum |
+| Oakhampton Operations Twin | Operational digital twin: test a layout, capacity or capex decision before spending | https://twin.oakhampton.ai/partners | 20% of net revenue (AUD) for 12 months per client, 30-day cookie, quarterly payouts |
