@@ -100,6 +100,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | nTask      | Task management    | https://ntaskmanager.com/affiliates                 | Recurring commission   |
 | CheckFlow  | Process management | https://checkflow.io/affiliate-program              | 40% lifetime recurring |
 | Timeneye   | Time tracking      | https://www.timeneye.com/timeneye-affiliate-program | 20% lifetime recurring |
+| Power CM Partners | Referral program for collaboration, planning, AI assistance and business apps | https://partners.powercm-software.com/auth?mode=up | Standard: 25% of eligible net subscription payments for 12 months from first actual payment; 20% of eligible single purchases. Product exceptions, refunds, disputes and validation apply. [Terms](https://partners.powercm-software.com/terms) |
 
 ## 🤖 AI & Automation
 
