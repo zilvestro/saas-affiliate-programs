@@ -164,5 +164,6 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Transistor | Podcast hosting           | https://affiliates.transistor.fm/signup | 25% lifetime recurring |
 | Castos     | Podcast platform          | https://castos.com/affiliates/          | 25% lifetime recurring |
 | Heyzine    | PDF to flipbook converter | https://heyzine.com/plans/affiliate     | 20% lifetime recurring |
+| UGCABC     | AI UGC video ads — a real avatar physically holds your product, from a product link or photo | https://ugcabc.com/affiliate | 25% recurring for 12 months · first 50 Founding Partners earn 35% lifetime<br>60-day cookie · monthly payouts from $50 |
 
 Each program includes tracking systems and most provide marketing materials to help promote their products. Cookie duration and payment terms vary by program, so it's important to review the specific terms for each one you're interested in promoting.
