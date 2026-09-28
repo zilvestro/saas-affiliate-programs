@@ -110,6 +110,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | NeuralText        | Content automation      | https://neuraltext.getrewardful.com/signup   | 30% lifetime recurring      |
 | Colossyan Creator | AI video creation       | https://www.colossyan.com/affiliate-program  | 25% recurring for 12 months |
 | Mevo              | AI customer support     | https://usemevo.com/affiliates               | 30% recurring for 3 months  |
+| aiFetchly         | Open-source desktop AI agent for business automation | https://www.aifetchly.com/affiliate | 20% recurring direct + 5% recurring second-tier, 90-day cookie, PayPal payouts ($50 minimum) |
 
 ## 💰 Financial & Accounting
 
