@@ -164,5 +164,6 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Transistor | Podcast hosting           | https://affiliates.transistor.fm/signup | 25% lifetime recurring |
 | Castos     | Podcast platform          | https://castos.com/affiliates/          | 25% lifetime recurring |
 | Heyzine    | PDF to flipbook converter | https://heyzine.com/plans/affiliate     | 20% lifetime recurring |
+| VideoGen | AI video creation for ecommerce brands, marketers and creators | https://videogen.io/affiliate-program | 30% recurring commission; up to 60-day cookie; monthly payouts, $50 minimum |
 
 Each program includes tracking systems and most provide marketing materials to help promote their products. Cookie duration and payment terms vary by program, so it's important to review the specific terms for each one you're interested in promoting.
