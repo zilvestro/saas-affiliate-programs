@@ -50,6 +50,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Company | Description                 | Program Link               | Commission Details                                                                                                                                            |
 | ------- | --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Affonso | Affiliate Software for SaaS | https://friends.affonso.io | 💰 40% Lifetime Commission on all payments<br>⏰ 180-day Cookie Duration<br>🔄 Monthly Payouts ($25 minimum)<br>⚡ 30-day Hold Period<br>🤝 Dedicated Support |
+| LaunchSpy | Meta ad, funnel and tool intelligence for infopreneurs | https://launchspy.io/affiliate | 40% lifetime recurring |
 
 ## 📧 Email & Communication
 
