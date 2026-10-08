@@ -139,6 +139,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | iSpring     | E-learning software         | https://www.ispring.com/affiliate-program | Commission on software sales |
 | Xperiencify | Gamified course platform    | http://partners.xperiencify.com/          | 30% lifetime recurring       |
 | Pensight    | Knowledge business platform | https://pensight.com/affiliates           | $50 + 20% lifetime recurring |
+| tlooto AI   | Academic AI for researchers | https://tlooto.com/influencer/en-US       | 30% recurring for 12 months, 365-day cookie, paid monthly |
 
 ## 🛠️ Developer Tools
 
