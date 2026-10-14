@@ -82,6 +82,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Cloudways   | Managed cloud hosting           | https://www.cloudways.com/en/web-hosting-affiliate-program.php | Up to $125 or 7% lifetime |
 | SITE123     | Simple website builder          | https://www.site123.com/affiliates                             | Up to $240 per sale       |
 | Podia       | Digital product website builder | https://www.podia.com/affiliates                               | 30% lifetime recurring    |
+| Promti      | Real-time 3D website kits       | https://promti.app/affiliates/                                 | 30% per sale (€150–€225)  |
 
 ## 📊 Analytics & Business Intelligence
 
