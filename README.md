@@ -110,6 +110,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | NeuralText        | Content automation      | https://neuraltext.getrewardful.com/signup   | 30% lifetime recurring      |
 | Colossyan Creator | AI video creation       | https://www.colossyan.com/affiliate-program  | 25% recurring for 12 months |
 | Mevo              | AI customer support     | https://usemevo.com/affiliates               | 30% recurring for 3 months  |
+| Newly | AI native mobile app builder | https://newly.app/affiliates | 60% of referred new customer revenue for their first 6 months; 30-day cookie |
 
 ## 💰 Financial & Accounting
 
