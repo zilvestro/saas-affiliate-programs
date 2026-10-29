@@ -44,6 +44,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | PureVPN        | VPN service provider                          | https://www.purevpn.com/affiliates                                                                      | Up to 40% recurring commission           |
 | Astra Security | Pentest Platform & Website Protection         | https://www.getastra.com/affiliate-program                                                              | 25% recurring commission                 |
 | Trust Swiftly  | Identity verification platform                | https://trustswiftly.com/affiliate-program/                                                             | 25% lifetime recurring commission        |
+| HOL Guard     | Runtime policy and approval controls for AI agents | https://hol.org/guard/affiliates | 25% of qualifying net subscription revenue for the first 12 months per referred paid customer |
 
 ## 🎯 Marketing Tools
 
