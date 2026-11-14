@@ -120,6 +120,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | CoinLedger  | Crypto tax software                       | https://coinledger.io/affiliate-program                      | 25% recurring on tax reports |
 | Intuit      | QuickBooks & TurboTax                     | https://quickbooks.intuit.com/partners/qbbusinessaffiliates/ | Up to 15% revenue share      |
 | DocParser   | Extract Data From Your Business Documents | https://docparser.com/affiliate-program/                     | 25% commission               |
+| DeFiPulse AI | AI DeFi & Solidity security auditing | https://defipulse.net | 30% lifetime recurring (Crypto payouts) |
 
 ## 📱 Social Media & Content
 
