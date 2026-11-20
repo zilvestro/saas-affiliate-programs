@@ -31,6 +31,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 - [Developer Tools](#️-developer-tools)
 - [E-commerce Tools](#-e-commerce-tools)
 - [Media & Content Creation](#️-media--content-creation)
+- [Hospitality & Booking](#️-hospitality--booking)
 
 ---
 
@@ -44,12 +45,15 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | PureVPN        | VPN service provider                          | https://www.purevpn.com/affiliates                                                                      | Up to 40% recurring commission           |
 | Astra Security | Pentest Platform & Website Protection         | https://www.getastra.com/affiliate-program                                                              | 25% recurring commission                 |
 | Trust Swiftly  | Identity verification platform                | https://trustswiftly.com/affiliate-program/                                                             | 25% lifetime recurring commission        |
+| GetCookies | Cookie consent platform (CMP) for GDPR and CCPA | https://getcookies.co/affiliate | 25% recurring for 12 months, 30-day cookie |
 
 ## 🎯 Marketing Tools
 
 | Company | Description                 | Program Link               | Commission Details                                                                                                                                            |
 | ------- | --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Affonso | Affiliate Software for SaaS | https://friends.affonso.io | 💰 40% Lifetime Commission on all payments<br>⏰ 180-day Cookie Duration<br>🔄 Monthly Payouts ($25 minimum)<br>⚡ 30-day Hold Period<br>🤝 Dedicated Support |
+| GetRating | Review collection for local businesses | https://getrating.co/partners | 25% recurring for 12 months, 30-day cookie |
+| Loyaltey | Digital loyalty cards for local businesses | https://loyaltey.com/partners | 25% recurring for 12 months, 30-day cookie |
 
 ## 📧 Email & Communication
 
@@ -72,6 +76,8 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Bannerbear | Auto-generate visuals   | https://www.bannerbear.com/affiliate/                         | 30% lifetime recurring              |
 | FlexClip   | Online video editor     | https://www.flexclip.com/affiliates.html                      | Competitive commission rates        |
 | Remove.bg  | Background removal tool | https://www.remove.bg/affiliate                               | 30% commission, 60-day cookie       |
+| FaceShot | AI headshots from one selfie | https://faceshot.ai/partners | 25% recurring for 12 months, 30-day cookie |
+| ShotVista | AI photo editing for real estate photographers | https://shotvista.com/partners | 25% recurring for 12 months, 30-day cookie |
 
 ## 🌐 Website Building & Hosting
 
@@ -90,6 +96,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Baremetrics  | Subscription analytics    | https://affiliates.baremetrics.com/signup | 20% lifetime recurring    |
 | Supermetrics | Marketing data management | https://supermetrics.com/affiliate        | 20% recurring commission  |
 | Insightful   | Workforce analytics       | https://www.insightful.io/partners        | 15%+ recurring commission |
+| CallTracker | Call tracking numbers for ads and listings | https://calltracker.dev/partners | 25% recurring for 12 months, 30-day cookie |
 
 ## 💼 Project Management & Productivity
 
@@ -100,6 +107,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | nTask      | Task management    | https://ntaskmanager.com/affiliates                 | Recurring commission   |
 | CheckFlow  | Process management | https://checkflow.io/affiliate-program              | 40% lifetime recurring |
 | Timeneye   | Time tracking      | https://www.timeneye.com/timeneye-affiliate-program | 20% lifetime recurring |
+| BellKeep | Room booking and visitor management for workplaces | https://bellkeep.com/partner | 25% recurring for 12 months, 30-day cookie |
 
 ## 🤖 AI & Automation
 
@@ -110,6 +118,8 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | NeuralText        | Content automation      | https://neuraltext.getrewardful.com/signup   | 30% lifetime recurring      |
 | Colossyan Creator | AI video creation       | https://www.colossyan.com/affiliate-program  | 25% recurring for 12 months |
 | Mevo              | AI customer support     | https://usemevo.com/affiliates               | 30% recurring for 3 months  |
+| Attorly | AI legal help for individuals and businesses | https://attorly.ai/en/partners | 25% recurring for 12 months, 30-day cookie |
+| Tenderen | Public tender monitoring and AI bid writing | https://tenderen.com/en/om-oss/partnere | 25% recurring for 12 months, 30-day cookie |
 
 ## 💰 Financial & Accounting
 
@@ -166,3 +176,10 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Heyzine    | PDF to flipbook converter | https://heyzine.com/plans/affiliate     | 20% lifetime recurring |
 
 Each program includes tracking systems and most provide marketing materials to help promote their products. Cookie duration and payment terms vary by program, so it's important to review the specific terms for each one you're interested in promoting.
+
+## 🏕️ Hospitality & Booking
+
+| Company | Description | Program Link | Commission Details |
+| ------- | ----------- | ------------ | ------------------ |
+| Staying | Guest portal, online check-in and in-stay upsells | https://staying.co/en/partners | 25% recurring for 12 months, 30-day cookie |
+| Triviyo | Booking platform for glamping and outdoor experiences | https://triviyo.com/en/partners | 25% recurring for 12 months, 30-day cookie |
