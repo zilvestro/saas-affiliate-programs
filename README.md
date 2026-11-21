@@ -72,6 +72,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | Bannerbear | Auto-generate visuals   | https://www.bannerbear.com/affiliate/                         | 30% lifetime recurring              |
 | FlexClip   | Online video editor     | https://www.flexclip.com/affiliates.html                      | Competitive commission rates        |
 | Remove.bg  | Background removal tool | https://www.remove.bg/affiliate                               | 30% commission, 60-day cookie       |
+| Storepanes | App Store and Google Play screenshot tool | https://bestlatestapps.com/storepanes/affiliates/terms/ | 50% of each payment for 12 months from the first click (yearly plans: first payment only); 60-day cookie |
 
 ## 🌐 Website Building & Hosting
 
